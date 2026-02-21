@@ -1,0 +1,5 @@
+amazon-data-analysis/
+│── app.py
+│── amazon_sales_dataset.csv
+│── requirements.txt
+│── README.md
